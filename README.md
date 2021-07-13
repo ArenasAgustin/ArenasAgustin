@@ -2,7 +2,7 @@
 
 ### Entusiasta de la programación.
 
-👀 **Lenguajes y herramientas que uso (o he usado)** 👀:
+**- Lenguajes y herramientas que uso (o he usado)** 👀:
 * C++
 * Phyton
 * Arduino
@@ -11,7 +11,7 @@
 * Css
 * Html
 
-✨**Mis hobbies son** ✨:
+**- Mis hobbies son** ✨:
 * Escuchar Música
 * Aprender
 * Dibujar
