@@ -10,6 +10,7 @@
 * JavaScript
 * Css
 * Html
+* Git
 
 **- Mis hobbies son** ✨:
 * Escuchar Música
