@@ -14,6 +14,10 @@
 * Git
 
 ---
+### _ Quien soy?_
+Hola! Me llamo0 Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me considero una persona atenta, capaz de resolver los desafíos que me proponga y perspicaz.
+
+---
 ### _Mis hobbies son ✨:_
 * Escuchar Música
 * Aprender
