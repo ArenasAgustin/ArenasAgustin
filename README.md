@@ -3,7 +3,7 @@
 #### Entusiasta de la programación.
 
 ---
-### _Lenguajes y herramientas que uso (o he usado) 👀:_
+### _Tecnologias que uso (o he usado) 👀:_
 * C++
 * Phyton
 * Arduino
