@@ -1,5 +1,5 @@
-# Hi 👋, soy Agustín Arenas.
 ![¡¡Bienvenodos!!](https://user-images.githubusercontent.com/72575052/130719535-1e8e3eba-a947-4e5a-9b7f-87387a27da75.gif)
+# Hi 👋, soy Agustín Arenas.
 
 ---
 ### _Tecnologias que uso (o he usado) 👀:_
