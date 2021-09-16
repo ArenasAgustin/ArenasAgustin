@@ -4,11 +4,12 @@
 ---
 ### _Tecnologias que uso (o he usado) 👀:_
 * C++
-* Phyton
-* Arduino
 * Java 
 * JavaScript
+* React
+* Redux
 * Css
+* Less
 * Html
 * Git
 
