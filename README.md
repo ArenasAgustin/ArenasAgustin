@@ -27,7 +27,7 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 
 ---
 ### _Mi Linkedin 👥:_
-* https://www.linkedin.com/in/agust%C3%ADn-ezequiel-arenas-barea-3b1109196/
+* https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
 
 <!---
 ArenasAgustin/ArenasAgustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
