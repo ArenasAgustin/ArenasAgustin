@@ -31,7 +31,9 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 
 ---
 ### _Mi CodeWars 👾:_
+
 * https://www.codewars.com/users/ArenasAgustin
+
 ![bages](https://www.codewars.com/users/ArenasAgustin/badges/large)
 
 <!---
