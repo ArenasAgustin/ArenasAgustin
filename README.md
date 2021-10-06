@@ -29,6 +29,11 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 ### _Mi Linkedin 👥:_
 * https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
 
+---
+### _Mi CodeWars 👾:_
+* https://www.codewars.com/users/ArenasAgustin
+![bages](https://www.codewars.com/users/ArenasAgustin/badges/large)
+
 <!---
 ArenasAgustin/ArenasAgustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
