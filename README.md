@@ -3,8 +3,6 @@
 
 ---
 ### _Tecnologias que uso (o he usado) 👀:_
-* C++
-* Java 
 * JavaScript
 * React
 * Redux
@@ -12,7 +10,11 @@
 * Less
 * Html
 * PostgresSQL
+* MongoDB
+* SQL
 * Git
+* JSON
+* Node.js
 
 ---
 ### _Quien soy?_
