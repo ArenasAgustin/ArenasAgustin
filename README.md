@@ -6,15 +6,18 @@
 * JavaScript
 * React
 * Redux
+* Node.js
 * Css
 * Less
 * Html
-* PostgresSQL
-* MongoDB
 * SQL
-* Git
+* PostgresSQL
+* Sequelize
+* MongoDB
+* Mongoose
+* Express
 * JSON
-* Node.js
+* Git
 
 ---
 ### _Quien soy?_
