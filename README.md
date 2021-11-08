@@ -35,6 +35,10 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 * https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
 
 ---
+### _Link de mi Cv:_
+* https://arenasagustin.github.io/Cv2.0/
+
+---
 ### _Mi CodeWars 👾:_
 
 * https://www.codewars.com/users/ArenasAgustin
