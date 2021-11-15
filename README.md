@@ -31,12 +31,16 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 * Los videojuegos
 
 ---
-### _Mi Linkedin 👥:_
-* https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
-
----
 ### _Link de mi Cv:_
 * https://arenasagustin.github.io/Cv2.0/
+
+---
+### _Link de mi Portfolio:_
+* https://portfolio-agustin-arenas.web.app/
+
+---
+### _Mi Linkedin 👥:_
+* https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
 
 ---
 ### _Mi CodeWars 👾:_
