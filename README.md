@@ -8,7 +8,7 @@
 * Redux
 * Node.js
 * Css
-* Less
+* Less y Sass
 * Html
 * SQL
 * PostgresSQL
