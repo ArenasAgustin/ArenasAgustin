@@ -2,22 +2,33 @@
 # Hi 👋, soy Agustín Arenas.
 
 ---
+<div>
+  <a href="https://portfolio-agustin-arenas.web.app/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&layout=compact&theme=tokyonight&langs_count=16" />
+  </a>
+</div>
+
 ### _Tecnologias que uso (o he usado) 👀:_
-* JavaScript
-* React
-* Redux
-* Node.js
-* Css
-* Less y Sass
-* Html
-* SQL
-* PostgresSQL
-* Sequelize
-* MongoDB
-* Mongoose
-* Express
-* JSON
-* Git
+
+<div>
+  <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
+  <span><img height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />TypeScript</span>
+  <span><img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
+  <span><img height="30" width="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />Redux</span>
+  <span><img height="30" width="40" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</span>
+  <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
+  <span><img height="30" width="40" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />Sass</span>
+  <span><img height="30" width="40" alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />Less</span>
+  <span><img height="30" width="40" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />Html</span>
+  <span><img height="30" width="40" alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgresSQL</span>
+  <span><img height="30" width="40" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />Sequelize</span>
+  <span><img height="30" width="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />MongoDB</span>
+  <span><img height="30" width="40" alt="Mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />Mongoose</span>
+  <span><img height="30" width="40" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />Express</span>
+  <span><img height="30" width="40" alt="JSON" src="https://cdn.worldvectorlogo.com/logos/json.svg" />JSON</span>
+  <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
+</div>
 
 ---
 ### _Quien soy?_
@@ -31,25 +42,12 @@ Hola! Me llamo Agus 👋, tengo 20 años, soy de Córdoba, Argentina. Me conside
 * Los videojuegos
 
 ---
-### _Link de mi Cv:_
-* https://arenasagustin.github.io/Cv2.0/
+<div> 
+  <a href="https://portfolio-agustin-arenas.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firebase" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/agustin-arenas-barea/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.codewars.com/users/ArenasAgustin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank"></a>
+</div>
 
 ---
-### _Link de mi Portfolio:_
-* https://portfolio-agustin-arenas.web.app/
-
----
-### _Mi Linkedin 👥:_
-* https://www.linkedin.com/in/agustin-ezequiel-arenas-barea/
-
----
-### _Mi CodeWars 👾:_
-
-* https://www.codewars.com/users/ArenasAgustin
-
-![bages](https://www.codewars.com/users/ArenasAgustin/badges/large)
-
-<!---
-ArenasAgustin/ArenasAgustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/ArenasAgustin/ArenasAgustin/blob/output/github-contribution-grid-snake.svg)
