@@ -1,5 +1,6 @@
-![¡¡Bienvenodos!!](https://user-images.githubusercontent.com/72575052/130719535-1e8e3eba-a947-4e5a-9b7f-87387a27da75.gif)
-# Hi 👋, soy Agustín Arenas.
+![¡¡Bienvenidos!!](https://user-images.githubusercontent.com/72575052/153492062-0109ed46-25fc-4406-a5da-772dcc026128.gif)
+
+# Hola 👋, soy Agustín Arenas.
 
 <div>
   <a href="https://portfolio-agustin-arenas.web.app/">
