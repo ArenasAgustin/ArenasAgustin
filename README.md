@@ -1,8 +1,10 @@
-![¡¡Bienvenidos!!](https://user-images.githubusercontent.com/72575052/153492062-0109ed46-25fc-4406-a5da-772dcc026128.gif)
+<div align="center">
+  <img alt="welcome gift" src="https://user-images.githubusercontent.com/72575052/153492062-0109ed46-25fc-4406-a5da-772dcc026128.gif" />
+</div>
 
 # Hola 👋, soy Agustín Arenas.
 
-<div>
+<div align="center">
   <a href="https://portfolio-agustin-arenas.web.app/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&layout=compact&theme=tokyonight&langs_count=10" />
@@ -11,7 +13,7 @@
 
 ### _Tecnologias que uso (o he usado) 👀:_
 
-<div>
+<div align="center">
   <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
   <span>-</span>
   <span><img height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />TypeScript</span>
@@ -57,11 +59,13 @@ Hola! Me llamo Agus 👋, tengo 21 años, soy de Córdoba, Argentina. Me conside
 * Los videojuegos
 
 ##
-<div> 
+<div align="center"> 
   <a href="https://portfolio-agustin-arenas.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firebase" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/agustin-arenas-barea/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href = "https://www.codewars.com/users/ArenasAgustin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/ArenasAgustin/ArenasAgustin/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="snake gift" src="https://github.com/ArenasAgustin/ArenasAgustin/blob/output/github-contribution-grid-snake.svg" />
+</div>
