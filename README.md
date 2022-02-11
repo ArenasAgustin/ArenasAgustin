@@ -5,7 +5,7 @@
 <div>
   <a href="https://portfolio-agustin-arenas.web.app/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&layout=compact&theme=tokyonight&langs_count=16" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&layout=compact&theme=tokyonight&langs_count=10" />
   </a>
 </div>
 
