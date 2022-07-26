@@ -45,6 +45,10 @@
   <span><img height="30" width="40" alt="JSON" src="https://cdn.worldvectorlogo.com/logos/json.svg" />JSON</span>
   <span>-</span>
   <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />GitHub</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />GitLab</span>
 </div>
 
 ##
