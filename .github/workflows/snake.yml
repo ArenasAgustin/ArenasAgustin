@@ -17,7 +17,8 @@ jobs:
           github_user_name: ArenasAgustin
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.2.0
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v1.1.4
         with:
           target_branch: output
           build_dir: dist
