@@ -51,7 +51,3 @@ Hola! Me llamo Agus 👋, tengo 22 años, soy de Córdoba, Argentina. Me conside
   &nbsp;&nbsp;
   <a href = "https://www.codewars.com/users/ArenasAgustin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
 </div>
-
-<div align="center">
-  <img alt="snake gift" src="https://github.com/ArenasAgustin/ArenasAgustin/blob/output/github-contribution-grid-snake.svg" />
-</div>
