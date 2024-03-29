@@ -39,15 +39,11 @@ Hola! Me llamo Agus 👋, tengo 22 años, soy de Córdoba, Argentina. Me conside
 ##
 
 <div align="center"> 
-  <a href="https://portfolio-agustin-arenas.web.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://agustinarenas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   &nbsp;&nbsp;
  	<a href="https://www.linkedin.com/in/agustin-arenas-barea/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   &nbsp;&nbsp;
   <a href = "https://github.com/ArenasAgustin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href = "https://www.codewars.com/users/ArenasAgustin"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href = "https://www.codewars.com/users/ArenasAgustin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
 </div>
