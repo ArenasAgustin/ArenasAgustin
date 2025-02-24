@@ -1,14 +1,13 @@
-<div align="center">
-  <img alt="welcome" src="https://github.com/ArenasAgustin/agustinarenas/assets/72575052/fcc63584-7e41-4296-8452-3863faac62f3" />
-</div>
-
 # Hi 👋, I'm Agustín Arenas.
 
-<div align="center">
-  <a href="https://agustinarenas.vercel.app/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&layout=compact" />
-  </a>
+<div align="center"> 
+  <a href="https://agustinarenas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  &nbsp;&nbsp;
+ 	<a href="https://www.linkedin.com/in/agustin-arenas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  &nbsp;&nbsp;
+  <a href = "https://github.com/ArenasAgustin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ### _About me 📝:_
@@ -26,12 +25,9 @@ I'm a software engineer from Argentina. I'm passionate about web development, an
 
 ##
 
-<div align="center"> 
-  <a href="https://agustinarenas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  &nbsp;&nbsp;
- 	<a href="https://www.linkedin.com/in/agustin-arenas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  &nbsp;&nbsp;
-  <a href = "https://github.com/ArenasAgustin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<div align="center">
+  <a href="https://agustinarenas.vercel.app/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&layout=compact" />
+  </a>
 </div>
