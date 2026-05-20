@@ -27,7 +27,7 @@ I'm a software engineer from Argentina. I'm passionate about web development, an
 
 <div align="center">
   <a href="https://agustinarenas.vercel.app/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArenasAgustin&theme=tokyonight&show_icons=true&locale=en&layout=compact" />
+    <img height="180em" src="./profile/stats.svg" />
+    <img height="180em" src="./profile/top-langs.svg" />
   </a>
 </div>
