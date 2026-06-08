@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "github-profile-readme": {
+      "source": "webreactiva/skills",
+      "sourceType": "github",
+      "skillPath": "skills/career/github-profile-readme/SKILL.md",
+      "computedHash": "512343b3eb7125a7e2884c94e9d5e3a31c68d3f5fb510fd0ba020db594777242"
+    }
+  }
+}

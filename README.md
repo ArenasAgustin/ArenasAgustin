@@ -1,33 +1,65 @@
-# Hi 👋, I'm Agustín Arenas.
-
-<div align="center"> 
-  <a href="https://agustinarenas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  &nbsp;&nbsp;
- 	<a href="https://www.linkedin.com/in/agustin-arenas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:arenasagustin7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  &nbsp;&nbsp;
-  <a href = "https://github.com/ArenasAgustin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-### _About me 📝:_
-
-I'm a programmer and web developer with problem-solving skills, imaginative, and curious. I have experience as a Full Stack Developer at Dequo.
-I'm a software engineer from Argentina. I'm passionate about web development, and open source.
-
-##
-
-### _My skils 👀:_
+# Hola 👋, soy Agustín Arenas
 
 <div align="center">
-  <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> Sass, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> Tailwind, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> Bootstrap, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> PHP, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> Next.js, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> Laravel, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB, <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" /> MariaDB y <img margin: "0.5em" max-height: "30" height="auto" width="30" alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL
+
+### Desarrollador Full Stack · Argentina 🇦🇷
+
+Desarrollador web con pasión por crear experiencias digitales funcionales. Actualmente
+trabajando en **Dequo**, donde construyo soluciones full stack que resuelven problemas
+reales. Siempre aprendiendo y explorando nuevas tecnologías.
+
+[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agustinarenas.vercel.app)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-arenas/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arenasagustin7@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArenasAgustin)
+
 </div>
 
-##
+---
+
+## 🛠️ En qué trabajo
+
+- **Desarrollo Full Stack** — Construyo aplicaciones web completas, desde interfaces
+  responsivas hasta APIs y bases de datos
+- **Open Source** — Creo herramientas y proyectos que comparto públicamente en GitHub
+- **Aprendizaje continuo** — Exploro nuevas tecnologías y frameworks para expandir
+  mi stack
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **[webdev.tools](/ArenasAgustin/webdev.tools)** | Herramientas para desarrolladores | TypeScript |
+| **[agustinarenas](https://github.com/ArenasAgustin/agustinarenas)** | Mi portfolio personal | Astro |
+| **[url-shortener](https://github.com/ArenasAgustin/url-shortener)** | Acortador de URLs con Next.js y PostgreSQL | TypeScript, Next.js, Prisma |
+| **[brain-games](https://github.com/ArenasAgustin/brain-games)** | Juego de 16 niveles para descifrar palabras | TypeScript |
+| **[MindArchive](https://github.com/ArenasAgustin/MindArchive)** | Apuntes de la carrera de Ingeniería en Computación | Docusaurus |
+
+## 🧰 Stack tecnológico
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 📫 Conectemos
 
 <div align="center">
-  <a href="https://agustinarenas.vercel.app/">
-    <img height="180em" src="./profile/stats.svg" />
-    <img height="180em" src="./profile/top-langs.svg" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-arenas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arenasagustin7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ArenasAgustin)
+
+<sub>Construyendo cosas, una línea de código a la vez.</sub>
+
 </div>
